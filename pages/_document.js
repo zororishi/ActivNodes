@@ -10,6 +10,7 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap"
             rel="stylesheet"
           />
+        <meta name="google-adsense-account" content="ca-pub-7427894411448013">
         </Head>
         <body>
           <Main />
