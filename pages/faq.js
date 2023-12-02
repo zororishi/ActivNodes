@@ -7,7 +7,7 @@ import Faqq from '../components/faq';
   return (
     <>
     <Head>
-        <title>FAQ</title>
+        <title>FAQ [Frequently Asked Questions]</title>
     </Head>
     <Navbar/>
     <Faqq/>
