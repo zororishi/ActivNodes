@@ -32,10 +32,10 @@ const Home = () => {
         Testimonails is a great way to increase the brand trust and awareness.
         We Use this section to highlight our popular customers.
       </SectionTitle>
-      <Testimonials />
-      <SectionTitle
+      
+        <SectionTitle
         pretitle="Watch a video"
-        title="Learn how to Order your Website">
+        title="Learn how to Create a server">
         This section is to highlight a promo or demo video for 
         ordering a product from ZoroX Technologies 
       </SectionTitle>
