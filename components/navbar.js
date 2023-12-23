@@ -31,7 +31,7 @@ const Navbar = () => {
                         className="w-8"
                       />
                     </span>
-                    <span>ZoroX</span>
+                    <span>ActivNodes</span>
                   </span>
                 </Link>
 
@@ -94,20 +94,10 @@ const Navbar = () => {
                 <Link href="/" className="inline-block px-4 py-2 text-lg font-normal text-gray-800 no-underline rounded-md dark:text-gray-200 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-gray-800">
                     Home
                 </Link>
-              </li>
-              <li className="mr-3 nav__item">
-                <Link href="/about" className="inline-block px-4 py-2 text-lg font-normal text-gray-800 no-underline rounded-md dark:text-gray-200 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-gray-800">
-                    About
-                </Link>
-              </li>
-              <li className="mr-3 nav__item">
-                <Link href="/pricing" className="inline-block px-4 py-2 text-lg font-normal text-gray-800 no-underline rounded-md dark:text-gray-200 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-gray-800">
-                    Pricing
-                </Link>
-              </li>
-              <li className="mr-3 nav__item">
+               </li>
+               <li className="mr-3 nav__item">
                 <Link href="/features" className="inline-block px-4 py-2 text-lg font-normal text-gray-800 no-underline rounded-md dark:text-gray-200 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-gray-800">
-                    Features
+                    features
                 </Link>
               </li>
               <li className="mr-3 nav__item">
@@ -120,7 +110,7 @@ const Navbar = () => {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link href="/" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
+          <Link href="https://client.activnodes.me" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
               Get Started
           </Link>
 

@@ -16,17 +16,11 @@ const Features = () => {
         <SectionTitle
         pretitle="ZoroX Services Benefits"
         title="Benefits">
-         ZoroX The BEst CHoice To order Your Websites in Cheap.
+         Activ The BEst CHoice To Run Ur Product.
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
-      <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to Order your Website">
-        This section is to highlight a promo or demo video for 
-        ordering a product from ZoroX Technologies 
-      </SectionTitle>
-      <Video />
+     
         </>
     )
     }

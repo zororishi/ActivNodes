@@ -16,13 +16,13 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "We Understand our customers",
-      desc: "We value the needs of customers and try our best to give them what we can.",
+      title: "Blazing Speed",
+      desc: "We offer blazing fast speeds for both our free & premium client. Don't worry about lag on you server..",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Updates",
-      desc: "We Provide 3 Months of update support for paid customers.",
+      title: "Uptime",
+      desc: "Activ offers very good uptime for all Premium users. The last thing you want to worry about is your server going offline.",
       icon: <ChartBarSquareIcon />,
     },
     {
@@ -35,22 +35,22 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "More Benefits",
-  desc: "Here We Have Noted Some  Features Of Our Service .",
+  desc: "Here We Have Noted Some More Features Of Our Service .",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Web",
-      desc: "We design as a mobile first responsive websites.",
+      title: "Free",
+      desc: "Activ is an always free service. We still have paid plans wich you can purchase.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "We Make Websites Powered By Leading FRameworks.",
+      title: "Security",
+      desc: "Our product is built using the latest version of Pylex Dashboard and Pterodactyl, ensuring state-of-the-art performance and functionality.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "We Give Dark & Light Mode Support For All Of Our WEb Pages.",
+      title: "Rewards",
+      desc: "We Giveaway Resources for ur server",
       icon: <SunIcon />,
     },
   ],

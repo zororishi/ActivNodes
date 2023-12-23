@@ -15,10 +15,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Zorox Technologies</title>
+        <title>ActivNodes</title>
         <meta
           name="description"
-          content="We Make website in cheap "
+          content="Game Server Hosting"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -30,9 +30,16 @@ const Home = () => {
         pretitle="Testimonials"
         title="Here's what our customers said">
         Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        We Use this section to highlight our popular customers.
       </SectionTitle>
       <Testimonials />
+      <SectionTitle
+        pretitle="Watch a video"
+        title="Learn how to Order your Website">
+        This section is to highlight a promo or demo video for 
+        ordering a product from ZoroX Technologies 
+      </SectionTitle>
+      <Video />
       <Footer />
       <PopupWidget />
     </>

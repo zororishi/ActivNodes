@@ -35,22 +35,22 @@ const Faqq = () => {
 
 const faqdata = [
   {
-    question: "Do You Offer Support For The Free Products?",
-    answer: "Yes, We Provide Support For Free Users But  It Can Take time like 10-30 days unless its a security issue.",
+    question: "How to get started?",
+    answer: "To use activnodes you only need a discord account. We found out that it's way easier to use that instead of manually typing the email and password.",
   },
   {
-    question: "Can I Get A Web For free?",
-    answer: "Currently We Donot Offer Custom WebPages Made for you for free But You Can Head to Our Github for free templates",
+    question: "So Everything free right?",
+    answer: "Yup! We offer free hosting for those who can't afford to pay in order to keep their project online. If you're interested in a paid plan, our cheapest one is only 0.99$ / month!",
   },
   {
-    question: "What is your refund policy? ",
+    question: "How to upgrade my server? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 10 days and we'll refund you in full, no questions asked.",
+      "Upgrading your server is very easy! We offer very easy tasks to earn coins: after completing those tasks, it's as easy as pressing a button to upgrade your server!",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "Do you offer 100% uptime? ",
     answer:
-      "Yes , we offer technical support for Paid customers. Please purchase a support plan to get 6 months of support.",
+      "We offer 99.99% uptime for our paid plans. Sadly, we can't offer the same performance on our free plans due to high demand for servers.",
   },
 ];
 

@@ -27,14 +27,13 @@ export default function Footer() {
                       height="32"
                       className="w-8"
                     />
-                  <span>ZoroX Technologies</span>
+                  <span>ActivNodes</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-            ZoroX is the best choice for you to get a website
-            created for you in cheap prices we use many frameworks
-            Like Next.js & ReactJS. one of the leading frameworks.
+            Effortlessly deploy, edit and manage high-performance 24/7 game servers.
+            Create your free server in under 60 seconds.
             </div>
 
           </div>
@@ -61,28 +60,28 @@ export default function Footer() {
             <div>Follow us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
-                href="https://twitter.com/zoroxtech"
+                href="https://twitter.com/"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Twitter</span>
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/zoroxtech"
+                href="https://facebook.com/"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Facebook</span>
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/zorox-tech"
+                href="https://instagram.com/"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
               <a
-                href="https://linkedin.com/zoroxtech"
+                href="https://linkedin.com/"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Linkedin</span>
@@ -99,13 +98,6 @@ export default function Footer() {
             target="_blank"
             rel="noopener">
             ZoroX Tech.
-          </a>{" "}
-          Illustrations from{" "}
-          <a
-            href="https://www.glazestock.com/"
-            target="_blank"
-            rel="noopener ">
-            Glazestock
           </a>
         </div>
       </Container>
